@@ -5,12 +5,22 @@ body
 
 table
 {
-	margin:4em auto;
+	margin:50px auto;
+}
+
+td
+{
+	padding: 50px;
 }
 
 h1
 {
 	text-align: center;
+}
+
+img
+{
+	border:5px solid blue; 
 }
 
 p
